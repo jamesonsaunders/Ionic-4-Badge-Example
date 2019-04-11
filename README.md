@@ -1,6 +1,6 @@
 # Ionic 4 Badge Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Badge Tutorial](https://www.youtube.com/watch?v=Wqg0SgcSv78).
+This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Badge Tutorial](https://www.youtube.com/watch?v=Wqg0SgcSv78) as well as the blog article [Ionic 4 Badge Tutorial](https://blog.jamibot.com/ionic-4-badge).
 
 [![Ionic 4 Badge Tutorial](https://img.youtube.com/vi/Wqg0SgcSv78/maxresdefault.jpg)](https://www.youtube.com/watch?v=Wqg0SgcSv78)
 
