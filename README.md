@@ -1,12 +1,12 @@
 # Ionic 4 Badge Example
 
-This project accompanies the [Jami Bot](https://jamibot.com) YouTube video [Ionic 4 Badge Tutorial](https://www.youtube.com/watch?v=Wqg0SgcSv78) as well as the blog article [Ionic 4 Badge Tutorial](https://blog.jamibot.com/ionic-4-badge).
+This project accompanies the [Jameson Saunders](https://jamesonsaunders.com) YouTube video [Ionic 4 Badge Tutorial](https://www.youtube.com/watch?v=Wqg0SgcSv78) as well as the blog article [Ionic 4 Badge Tutorial](https://blog.jamibot.com/ionic-4-badge).
 
 [![Ionic 4 Badge Tutorial](https://img.youtube.com/vi/Wqg0SgcSv78/maxresdefault.jpg)](https://www.youtube.com/watch?v=Wqg0SgcSv78)
 
 A minimal example of how to get the Ionic 4 Badge working on your own site.
 
-If you haven't already, check out the [Jami Bot YouTube Channel](https://youtube.com/c/JamiBot) for web development tutorials.
+If you haven't already, check out the [Jameson Saunders YouTube Channel](https://youtube.com/c/JamesonSaunders) for web development tutorials.
 
 ## Installation
 
